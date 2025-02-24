@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
       <div className="bg-white p-8 rounded-2xl shadow-lg max-w-md w-full">
-        <h1 className="text-3xl font-bold text-center mb-6 text-indigo-700">Counter App</h1>
+        <h1 className="text-3xl font-bold text-center mb-6 text-indigo-700">New Counter App</h1>
         
         <div className="text-center">
           <div className="text-6xl font-bold mb-8 text-gray-800">{count}</div>
